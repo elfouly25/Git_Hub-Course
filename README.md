@@ -1,7 +1,4 @@
 # Git_Hub-Course
 ### My First project
-Markup :  # Heading 1 #
-
--OR-
-
-Markup :  ============= (below H1 text)
+# Heading 1 #
+=============(below H1 text)
